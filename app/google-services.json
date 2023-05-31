@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468564481231",
+    "project_id": "speedo-checker",
+    "storage_bucket": "speedo-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468564481231:android:cd11a536301204995413ba",
+        "android_client_info": {
+          "package_name": "com.example.speedochecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468564481231-qljr9gl6a0cif2d3o6amsor09skgbk8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAxNyQKGcfgtMeQ7il7vxGp5cBqPPlW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468564481231-qljr9gl6a0cif2d3o6amsor09skgbk8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

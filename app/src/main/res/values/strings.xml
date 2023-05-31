@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speedo Checker</string>
+    <string name="speed_0_km_h" />
+    <string name="kick_off_with_us">KICK OFF WITH US</string>
+    <string name="are_you_ready">Are you ready ?</string>
+    <string name="todo">TODO</string>
+</resources>
